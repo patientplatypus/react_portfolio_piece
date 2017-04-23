@@ -1,0 +1,17 @@
+nav.tabs li {
+  display: inline-block;
+  color: black;
+  background-color: white;
+  padding: 4px 20px;
+  margin-bottom: 24px;
+  margin-right: 1px;
+}
+
+h1 {
+  color: blue;
+}
+
+/*a:link {color: black;}
+a:visited {color: black;}
+a:hover {color: black;}
+a:active {color: black;} */
